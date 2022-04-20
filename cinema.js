@@ -1,1 +1,1 @@
-console.log('ola')
+const catalogo = require("./database/catalogo.json");

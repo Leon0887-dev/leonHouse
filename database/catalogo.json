@@ -1,0 +1,22 @@
+{
+    "data":[
+        {
+           "id": 1,
+           "titulo": "guerra civil",
+           "duracao": 3,
+           "atores":["chris evans","robert"],
+           "ano_lacamento": 2020,
+           "emCartaz": false
+        },
+        
+        {
+            "id": 2,
+            "titulo": "the batman",
+            "duracao": 2,
+            "atores":["zoe","robert"],
+            "ano_lacamento": 2022,
+            "emCartaz": true
+        }
+        ]
+
+}
